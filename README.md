@@ -1,4 +1,4 @@
-`wcc`: wanna be wc command from GNU.
+`wcc`: wannabe wc command from GNU.
 ---
 ```bash
 $ wcc -w test.txt
